@@ -13,5 +13,6 @@ Copy the generated file, 'compiled_data.json' to the javascript/ folder .
 ### Visualization
 Once the compiled data json is in the javascript folder, you are ready to run the visualization. Start a local server from the javascript/ directory using the following commmand:  
 `python -m http.server`        
-Navigate in a browser to localhost:8000. You should see an empty page with a few buttons on top. Click 'Load All Friends Visualization' for an overview of all messaging interactions. To filter by friend name, enter a comma-separated list of full names into the text area (be sure to include a space after each comma: First1 Last1, First2 Last2, First3 Last3) and click 'Load Some Friends'
+Navigate in a browser to localhost:8000. You should see an empty page with a few buttons on top. Click 'Load All Friends Visualization' for an overview of all messaging interactions. To filter by friend name, enter a comma-separated list of full names into the text area (be sure to include a space after each comma: First1 Last1, First2 Last2, First3 Last3) and click 'Load Some Friends'    
 
+![screenshot.png]
