@@ -1,3 +1,7 @@
+// Mahika Dubey
+// TIM 243 Social Computing
+// W2019 UCSC
+
 var friendsfile = "compiled_data.json";
 var messageList = []
 // Set up the SVG attributes

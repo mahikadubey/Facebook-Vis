@@ -1,3 +1,7 @@
+// Mahika Dubey
+// TIM 243 Social Computing
+// W2019 UCSC
+
 function visualizeFriends(filename) {
   console.log(filename);
 
